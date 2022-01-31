@@ -1,0 +1,33 @@
+.grilla {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 230px);
+  gap: 80px;
+  padding: 40px;
+  justify-content: center;
+  padding-right: 120px;
+}
+
+.buscador {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputbuscador {
+  border-radius: 50px;
+  padding: 20px;
+  border: none;
+  background-color: white;
+  color: black;
+}
+
+.imagen {
+  border-radius: 50px;
+  border: 1px solid white;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

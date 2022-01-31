@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Gothic+A1:wght@500&display=swap");
+
+* {
+  background-color: black;
+  color: white;
+  font-family: "Gothic A1", sans-serif;
+}
